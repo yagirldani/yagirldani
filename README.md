@@ -7,9 +7,7 @@
 
 - 💬 I'm currenly looking for **anyone who would like to let me shadow their work and thought process on any data analytics projects they might be worki**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
